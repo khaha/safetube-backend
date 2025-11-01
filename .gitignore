@@ -1,0 +1,26 @@
+# Database files
+*.db
+*.sqlite3
+
+# Model files
+*.pt
+*.pth
+*.bin
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+keys.txt
+
+# Large files
+yolov8*
+*.jpg
+*.png
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
